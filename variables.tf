@@ -36,5 +36,5 @@ variable "webserver-port" {
 
 variable "dns-name" {
   type    = string
-  default = "anyvison.com."
+  default = "example.com"
 }
